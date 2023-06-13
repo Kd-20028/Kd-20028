@@ -1,10 +1,21 @@
-- 👋 Hi, I’m Keshawn 
-- 👀 I’m interested in growing as a programmer and software engineer
-- 🌱 I’m currently a junior at Mississippi State Universtiy seeking studying computer science
-- 💞️ I’m looking to collaborate on front-end projects
-- 📫 How to reach me: Email - keshawndavis472@gmail.com
+👋 Hello, I'm Keshawn Davis!
 
-<!---
-Kd-20028/Kd-20028 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+🎓 Computer Science Major at Mississippi State University
+
+💻 Passionate about software development, problem-solving, and continuous learning
+
+✉️ Reach me at: keshawndavis472@gmail.com
+
+🌟 Seeking opportunities to apply my skills and contribute to innovative projects
+
+💡 Let's connect and collaborate on exciting tech ventures!
+
+#️⃣ Skills:
+- Programming Languages: Java, Python, JavaScript, C, C++
+- Web Development: HTML, CSS, React
+- Database Management: SQL, MongoDB
+- Version Control: Git, GitHub
+
+🌱 Always expanding my knowledge and exploring new technologies
+
+🏆 Let's build something awesome together!
